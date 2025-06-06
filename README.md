@@ -34,7 +34,7 @@ L'infrastructure IT de Batchbzzard repose sur un Windows Server assurant la gest
 
 ## Équipes Utilisateurs
 ### Service Ventes
-	Kylian Mpatché
+	Kylian MPATCHÉ
 	Jean CAST.EXE
 	Jean-Luc MELENCLOUD
 	Manuel VLANS
